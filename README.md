@@ -1,0 +1,2 @@
+# -Intelligent-Waste-Management-System-Using-IoT-and-Solar-Power
+Intelligent Waste Management System Using IoT and Solar Power  • Collected and analyzed sensor data from 50+ dustbins, achieving 98 percentage accuracy in real-time monitoring using  ESP32 and LoRaWAN.  • Provided actionable insights to municipalities, reducing waste collection time by 25 percent and operational costs by 20  percent. 
